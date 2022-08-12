@@ -6,4 +6,4 @@
 
 ## Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Nyxonn/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/7xencrypt/count.svg)
