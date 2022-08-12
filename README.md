@@ -4,6 +4,4 @@
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7xencrypt&show_icons=true&theme=midnight-purple)
 
-## Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/7xencrypt/count.svg)
+![](https://komarev.com/ghpvc/?username=Ratsuyo&color=blueviolet)
